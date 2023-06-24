@@ -1,0 +1,126 @@
+{
+	"data": {
+		"recentAcSubmissionList": [
+			{
+				"id": "972359449",
+				"title": "Find if Path Exists in Graph",
+				"titleSlug": "find-if-path-exists-in-graph",
+				"timestamp": "1686892874"
+			},
+			{
+				"id": "972222268",
+				"title": "Path with Maximum Gold",
+				"titleSlug": "path-with-maximum-gold",
+				"timestamp": "1686870299"
+			},
+			{
+				"id": "971768717",
+				"title": "Maximum Level Sum of a Binary Tree",
+				"titleSlug": "maximum-level-sum-of-a-binary-tree",
+				"timestamp": "1686821222"
+			},
+			{
+				"id": "970959845",
+				"title": "Find the Town Judge",
+				"titleSlug": "find-the-town-judge",
+				"timestamp": "1686731669"
+			},
+			{
+				"id": "970952582",
+				"title": "Find if Path Exists in Graph",
+				"titleSlug": "find-if-path-exists-in-graph",
+				"timestamp": "1686730874"
+			},
+			{
+				"id": "970922099",
+				"title": "Validate Binary Search Tree",
+				"titleSlug": "validate-binary-search-tree",
+				"timestamp": "1686727695"
+			},
+			{
+				"id": "970915186",
+				"title": "Sum of Left Leaves",
+				"titleSlug": "sum-of-left-leaves",
+				"timestamp": "1686727035"
+			},
+			{
+				"id": "970113833",
+				"title": "Reverse Linked List",
+				"titleSlug": "reverse-linked-list",
+				"timestamp": "1686640425"
+			},
+			{
+				"id": "970086293",
+				"title": "Convert Sorted Array to Binary Search Tree",
+				"titleSlug": "convert-sorted-array-to-binary-search-tree",
+				"timestamp": "1686637917"
+			},
+			{
+				"id": "966919625",
+				"title": "Minimum Depth of Binary Tree",
+				"titleSlug": "minimum-depth-of-binary-tree",
+				"timestamp": "1686257525"
+			},
+			{
+				"id": "966915918",
+				"title": "Maximum Depth of Binary Tree",
+				"titleSlug": "maximum-depth-of-binary-tree",
+				"timestamp": "1686257060"
+			},
+			{
+				"id": "966912643",
+				"title": "Sort Characters By Frequency",
+				"titleSlug": "sort-characters-by-frequency",
+				"timestamp": "1686256646"
+			},
+			{
+				"id": "966909326",
+				"title": "Top K Frequent Elements",
+				"titleSlug": "top-k-frequent-elements",
+				"timestamp": "1686256237"
+			},
+			{
+				"id": "966350119",
+				"title": "Move Zeroes",
+				"titleSlug": "move-zeroes",
+				"timestamp": "1686199864"
+			},
+			{
+				"id": "966343143",
+				"title": "Valid Parentheses",
+				"titleSlug": "valid-parentheses",
+				"timestamp": "1686199115"
+			},
+			{
+				"id": "966232922",
+				"title": "Add Two Numbers",
+				"titleSlug": "add-two-numbers",
+				"timestamp": "1686183925"
+			},
+			{
+				"id": "966220130",
+				"title": "Two Sum",
+				"titleSlug": "two-sum",
+				"timestamp": "1686181471"
+			},
+			{
+				"id": "905000832",
+				"title": "Left and Right Sum Differences",
+				"titleSlug": "left-and-right-sum-differences",
+				"timestamp": "1677378936"
+			},
+			{
+				"id": "886477465",
+				"title": "Coin Change",
+				"titleSlug": "coin-change",
+				"timestamp": "1674850037"
+			},
+			{
+				"id": "886473340",
+				"title": "Climbing Stairs",
+				"titleSlug": "climbing-stairs",
+				"timestamp": "1674849464"
+			}
+		]
+	}
+}
