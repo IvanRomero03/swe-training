@@ -20,8 +20,9 @@ const Layout: React.FC<{children: React.ReactNode, session: Session | null}> = (
                 <NavBar session={session} />
             </nav>
             <div className="bg-zinc-900">
-                <div className="h-12"></div>
+                <div className="h-16"></div>
                 {children}
+                <div className="h-16"></div>
             </div>
         </main>
     </div>

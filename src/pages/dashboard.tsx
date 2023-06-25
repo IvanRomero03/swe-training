@@ -27,7 +27,7 @@ export default function Dashboard() {
         <Layout
             session={session.data}
         >
-            <div className="text-white">
+            <div className="text-white min-h-screen">
                 Dashboard
             </div>
         </Layout>    
